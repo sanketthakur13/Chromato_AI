@@ -1,0 +1,6 @@
+Github link for datasets and code: dataset_1013.xlsx, TLC_dataset.xlsx
+https://github.com/woshixuhao/Discovery_of_column_chromatography/tree/main/data
+
+
+rf_dataset_0203_total.csv link:
+https://zenodo.org/records/18467289?utm_source=chatgpt.com
